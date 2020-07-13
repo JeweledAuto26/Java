@@ -1,2 +1,2 @@
-# Java
-Some programs I have coded in Java
+# Java Program 1
+DEmonsrates a linked list of integers 
